@@ -1,0 +1,6 @@
+step_*.jgr
+step_*.ps
+step_*.png
+step_*.jpg
+GridGame
+*.o
